@@ -1,0 +1,37 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+505 SE Spring St
+
+Pullman, WA 99163
+
+$~$
+
+**Date:** <DATE>
+
+$~$
+
+$~$
+
+<TITLE> <NAME>
+<ADDRESS1>
+<ADDRESS2>
+<CITY>, <STATE> <ZIP>
+
+$~$
+Dear <NAME>:
+
+**Subject:**
+
+
+Sincerely,
+
+Nicholas Potter
+
+WA District #9 Constituent
+

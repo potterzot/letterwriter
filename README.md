@@ -1,2 +1,4 @@
-# repwriter
-Repository for letters written to government officials.
+RepWriter
+=========
+
+An rmarkdown repository for generating letters to government officials.

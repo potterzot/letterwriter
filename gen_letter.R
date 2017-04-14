@@ -2,7 +2,7 @@
 # Generate a blank letter
 
 #load the representative data
-reps <- read.csv("replist.csv", stringsAsFactors = FALSE) #rep data
+reps <- read.csv("contacts.csv", stringsAsFactors = FALSE) #rep data
 
 # Get the CL arguments
 script_args <- commandArgs(trailingOnly = TRUE)

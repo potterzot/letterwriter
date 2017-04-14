@@ -1,5 +1,5 @@
-RepWriter
-=========
+LetterWriter
+============
 
 A make and rmarkdown framework for generating letters in markdown and converting using pandoc.
 

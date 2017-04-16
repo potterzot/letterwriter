@@ -19,17 +19,27 @@ $~$
 $~$
 
 <TITLE> <NAME>
+
 <ADDRESS1>
+
 <ADDRESS2>
+
 <CITY>, <STATE> <ZIP>
 
 $~$
+
 Dear <NAME>:
 
 **Subject:**
 
 
+$~$
+
 Sincerely,
+
+$~$
+
+$~$
 
 Nicholas Potter
 

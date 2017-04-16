@@ -28,8 +28,8 @@ for (n in script_args) {
                      "'"
                      )
   } else {
-    command <- paste("./gen_letter.sh",
-                     "--name", n 
+    command <- paste0("./gen_letter.sh ",
+                     "--name '", n, "'" 
                      )
   }
   system(command)

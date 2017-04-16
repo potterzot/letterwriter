@@ -90,7 +90,7 @@ if [[ $# -ne 0 ]]; then
 fi
 
 #actual part of the script
-fname=${DATE1}_${name// /_}.Rmd
+fname=${name// /_}_${DATE1}.Rmd
 cp letters/blank_letter.Rmd letters/${fname}
 if [[ $DATE2 ]];     then sed -i -e "s/<DATE>/${DATE2}/g" letters/${fname}; fi
 if [[ $title ]];     then sed -i -e "s/<TITLE>/${title}/g" letters/${fname}; fi

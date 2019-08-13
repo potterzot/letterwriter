@@ -35,3 +35,4 @@ vignettes/*.pdf
 
 # ignore the template pdf
 output/blank_letter.pdf
+output/*.pdf
